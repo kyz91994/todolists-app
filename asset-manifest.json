@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/todolists-app/static/css/main.155097fa.chunk.css",
-    "main.js": "/todolists-app/static/js/main.0e7ce5eb.chunk.js",
-    "main.js.map": "/todolists-app/static/js/main.0e7ce5eb.chunk.js.map",
+    "main.js": "/todolists-app/static/js/main.3a8ffa58.chunk.js",
+    "main.js.map": "/todolists-app/static/js/main.3a8ffa58.chunk.js.map",
     "runtime-main.js": "/todolists-app/static/js/runtime-main.9f08e9ac.js",
     "runtime-main.js.map": "/todolists-app/static/js/runtime-main.9f08e9ac.js.map",
-    "static/js/2.a22f0000.chunk.js": "/todolists-app/static/js/2.a22f0000.chunk.js",
-    "static/js/2.a22f0000.chunk.js.map": "/todolists-app/static/js/2.a22f0000.chunk.js.map",
+    "static/js/2.bab642a9.chunk.js": "/todolists-app/static/js/2.bab642a9.chunk.js",
+    "static/js/2.bab642a9.chunk.js.map": "/todolists-app/static/js/2.bab642a9.chunk.js.map",
     "index.html": "/todolists-app/index.html",
-    "precache-manifest.8f9d4e687716d767ca1ac05e08e414ff.js": "/todolists-app/precache-manifest.8f9d4e687716d767ca1ac05e08e414ff.js",
+    "precache-manifest.81c11e11bd74370cefd7a80861001534.js": "/todolists-app/precache-manifest.81c11e11bd74370cefd7a80861001534.js",
     "service-worker.js": "/todolists-app/service-worker.js",
     "static/css/main.155097fa.chunk.css.map": "/todolists-app/static/css/main.155097fa.chunk.css.map",
-    "static/js/2.a22f0000.chunk.js.LICENSE.txt": "/todolists-app/static/js/2.a22f0000.chunk.js.LICENSE.txt"
+    "static/js/2.bab642a9.chunk.js.LICENSE.txt": "/todolists-app/static/js/2.bab642a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9f08e9ac.js",
-    "static/js/2.a22f0000.chunk.js",
+    "static/js/2.bab642a9.chunk.js",
     "static/css/main.155097fa.chunk.css",
-    "static/js/main.0e7ce5eb.chunk.js"
+    "static/js/main.3a8ffa58.chunk.js"
   ]
 }
